@@ -67,7 +67,7 @@ else:
 
 # Output : 
 
-
+![image](https://github.com/Jessie-132008/Poisson_distribution/blob/main/Screenshot%202026-03-16%20121135.png)
 
 # Results
 
